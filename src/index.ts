@@ -22,6 +22,11 @@ function main() {
     zIndex: 11
   });
 
+  // Various event handlers
+  logseq.App.onBlockRendererMounted(console.log)
+  logseq.App.onPageFileMounted(console.log)
+  logseq.App.onSidebarVisibleChanged(console.log)
+
   const openIconName = 'template-plugin-open';
 
   logseq.provideStyle(css`
