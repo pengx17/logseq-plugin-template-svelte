@@ -24,7 +24,7 @@
     "sirv-cli": "1.0.12",
     "svelte": "3.38.3",
     "svelte-check": "1.6.0",
-    "svelte-preprocess": "4.7.3",
+    "svelte-preprocess": "4.7.4",
     "tslib": "2.3.0",
     "typescript": "4.3.5"
   },
