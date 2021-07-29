@@ -16,7 +16,7 @@
     "@rollup/plugin-replace": "3.0.0",
     "@rollup/plugin-typescript": "8.2.3",
     "@tsconfig/svelte": "2.0.1",
-    "rollup": "2.55.0",
+    "rollup": "2.55.1",
     "rollup-plugin-css-only": "3.1.0",
     "rollup-plugin-livereload": "2.0.5",
     "rollup-plugin-svelte": "7.1.0",
