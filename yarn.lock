@@ -725,10 +725,10 @@ serialize-javascript@^4.0.0:
   dependencies:
     randombytes "^2.1.0"
 
-sirv-cli@1.0.13:
-  version "1.0.13"
-  resolved "https://registry.yarnpkg.com/sirv-cli/-/sirv-cli-1.0.13.tgz#90efbf86b119e3714444881a70d14d487526f803"
-  integrity sha512-9V9e7iHb7+hhEJNBTu9JAjXPrZ6s8Ky3SqcjGsccpvZD7cJ9Hp5eWytUVjk2Fiz3AiAyj6Zb2Eeo3ipK+4OBiw==
+sirv-cli@1.0.14:
+  version "1.0.14"
+  resolved "https://registry.yarnpkg.com/sirv-cli/-/sirv-cli-1.0.14.tgz#4bc60421b3de9caea80ccd292b5004aca4ce3c81"
+  integrity sha512-yyUTNr984ANKDloqepkYbBSqvx3buwYg2sQKPWjSU+IBia5loaoka2If8N9CMwt8AfP179cdEl7kYJ//iWJHjQ==
   dependencies:
     console-clear "^1.1.0"
     get-port "^3.2.0"
